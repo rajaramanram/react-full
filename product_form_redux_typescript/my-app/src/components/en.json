@@ -1,0 +1,9 @@
+{
+    "columns":[
+        {"title": "PRODUCT ID", "field": "product_id"},
+        {"title": "PRODUCT NAME", "field": "product_name"},
+        {"title": "PRODUCT PRICE", "field": "product_name"},
+        {"title": "SELLING PRICE", "field": "product_name"}
+    ],
+    "data":[{"_id":"60b5f9f658e4561c849beb10","product_id":1,"product_name":"cake","product_price":10,"selling_price":20,"warning":30,"__v":0},{"_id":"60b946060373241f449b432d","product_id":9,"product_name":"kjjhkjl","product_price":9,"selling_price":9,"warning":9,"__v":0}]
+}
